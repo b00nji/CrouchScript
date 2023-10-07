@@ -1,0 +1,4 @@
+bind "c" "vstr crouchswitch 
+set duck "+movedown; set crouchswitch vstr stand" 
+set stand "-movedown; set crouchswitch vstr duck" 
+set crouchswitch "vstr duck" 
